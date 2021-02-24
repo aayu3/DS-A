@@ -2,11 +2,15 @@
 #include <string>
 class Proofnik {
     public:
-    std::string name;
-    int favoriteNumber;
+        std::string name;
+        int favoriteNumber;
 
     Proofnik(std::string input){
         
     }
 
 }; 
+
+int main() {
+    
+}
